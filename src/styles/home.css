@@ -713,7 +713,7 @@ ul {
   .banner-img {
     width: 100%;
     left: 0;
-    height: 50%;
+    height: 75vh;
     position: absolute;
     top: 0;
     filter: brightness(0.8);
